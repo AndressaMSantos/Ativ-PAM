@@ -1,5 +1,6 @@
 # Ativ-PAM
-Exemplos práticos, conteúdos  realizados na aula de Programação de Aplicativos Mobile I 
+Exemplos práticos, conteúdos  realizados na aula de Programação de Aplicativos Mobile I  &
+Uma breve pesquisa sobre Sqlite, Firebase; 
 
 Native-Base (elementos interface de usuário)
 https://snack.expo.dev/@andressa_santos/nativebase
